@@ -2,7 +2,7 @@
 
 Node.js project using express, ejs where we fetch the news data from news api.
 
-<img src="https://github.com/News-website/blob/main/Screenshot%20(192).png?raw=true" alt="GitHub Logo" style="max-width: 100%;">
+
 
 
 
